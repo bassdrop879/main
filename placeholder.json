@@ -1,6 +1,8 @@
 {
   "v": 1,
-  "issued": "2026-07-26",
-  "entries": [],
-  "sig": "kIfauFh1rci7wWH3sJezxrKjR16iyhLZPQbbCri4bsYZAnWm40okA6l+xpgosiScMq/F9BvG7GmzVtmNTJ94Aw=="
+  "issued": "2026-07-26T17:59:44Z",
+  "entries": [
+    { "u": "bassdrop8191", "h": "0640310de3e0b8b526ed38a33aa465db", "r": false }
+  ],
+  "sig": "G+TmyH7ffryW7dYF+6PS86yIo5TIwae3yBz0cbjjWKZRaEVZJZOxDql2KXbe6b6ntWK6FxlPYcmrems3k40iDw=="
 }
