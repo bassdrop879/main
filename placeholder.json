@@ -1,8 +1,11 @@
 {
   "v": 1,
-  "issued": "2026-07-26T19:47:52Z",
+  "issued": "2026-07-26T20:02:55Z",
   "entries": [
-    { "u": "bassdrop8191", "h": "0640310de3e0b8b526ed38a33aa465db", "r": false }
+    { "u": "bassdrop8191", "h": "0640310de3e0b8b526ed38a33aa465db", "r": false },
+    { "u": "fish", "h": "edc8f321df1de06edb15a35143404c91", "r": false },
+    { "u": "cunt", "h": "ee82170297471d1c5e43a32f772a115c", "r": false }
   ],
-  "sig": "CoRfe1CqFUn+Jb9+DWQq+AACk25zQdTkRE+QEaWkJIQmQUxnAdtHozNjL+QaiLa8y1jrFEXJEyZwXyerfmsrCQ=="
+  "sig": "qB4WJtadtQT6VuLtLKnq9cqUggNlGRwOYlm8IRg6q5LyXln35sUr/MYIsm1LNXYwJ954jPcFzYdoYOVyszJjAw=="
 }
+
